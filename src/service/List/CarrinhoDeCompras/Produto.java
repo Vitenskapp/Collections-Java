@@ -1,4 +1,4 @@
-package service.CarrinhoDeCompras;
+package service.List.CarrinhoDeCompras;
 
 public class Produto {
 

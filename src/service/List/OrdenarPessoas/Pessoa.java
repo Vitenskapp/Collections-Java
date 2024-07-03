@@ -1,4 +1,4 @@
-package service.OrdenarPessoas;
+package service.List.OrdenarPessoas;
 
 import java.util.Comparator;
 

@@ -1,4 +1,4 @@
-package service.Tarefas;
+package service.List.Tarefas;
 
 public class Tarefa {
 
